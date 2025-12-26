@@ -1,0 +1,7 @@
+{
+  "name": "Hoenergy Christmas Magic - L3 Gestures",
+  "description": "L3: Implemented robust Hand Gesture control (Fist=Tree, Palm=Scatter, V=Bless, Point=Focus) with debounce, cooldown, and camera UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
